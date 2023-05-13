@@ -1,2 +1,2 @@
 # The-Beagle-Blog
-This Front end contest 1 
+This blog Front end contest 1 
